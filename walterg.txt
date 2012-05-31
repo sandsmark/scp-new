@@ -1,0 +1,169 @@
+title:Walterg
+“So how did you find out about the SCP?” Jack asked me as we were chatting on the phone late one night. “I found about it on 4chan.”
+
+I shrugged. Jack was my best friend. I could trust him with anything. “Well, I found out about it because my dad used to work for them.”
+
+There was a pause on the other end of the line. “Wait, what? No, no, I'm talking about the website.”
+
+“Yeah, me too. It's a front for an actual organization, man. I swear to god, it's real.”
+
+I heard a derisive snort on the other end. “You're joking, right?” 
+
+“No, not joking.” I crossed the room and looked at my dad’s old safe. “I have proof.” With the phone cradled gently in my neck, I put in the combination and swing the safe open with a loud squeak. Inside was a single file.
+
+“Well…dude. No way. Look, let me ask on IRC here…” Another long pause. “Huh.”
+
+I closed the safe shut with a snap. “What is it?” I asked, nervously thumbing through the file. The tetramire. This one file alone, dad had said, contained some of the most powerful secrets known to man. I went over to my computer and checked the clock. 10:00pm. I still had 12 hours before I would need to put my password in again. 24 hours without that password and the entire contents of this file would be sent to every major newspaper in the world. The end of the SCP.
+
+“Hey Walt,” Jack said over the phone, “The guys here say they want to meet you. See what you know. They seem to think you might be helpful. Wanna come over?”
+
+I was quiet for a bit. This was unexpected. They needed my talents? I mean, damn. Who was I? An IT tech with no prospects. I had spent my whole life tracking the SCP and now…now I had a chance, however remote. “Alright. Be there in a bit.” I hung up and grabbed my laptop.
+
+***
+
+“BEER!” Jack said as he pulled open the door. He was happy to see me, but his smile faded as soon as he saw my serious face. “Dude…Walt. You look like you just watched a man die or something…you alright?”
+
+I nodded and slipped in past him, pulling out my laptop. “Let’s do this.”
+
+Jack shrugged and cracked open a beer, setting up his laptop across from me. “Sure. Come on. I’ll send you the password.”
+
+It took me less than thirty seconds to register and log onto the secure IRC network. And Jack happily gave me the password. I didn’t wonder for a moment how he knew it.
+
+> WalterG [~Walter@synIRC-23589043.md.comcast.net] entered the room.
+> Agent_Strelnikov: I have not receive assigned rations yet
+> DrChung: Has Task force XI-8 arrived back yet?
+> Dr_Smascher: Did you file the necessary requisition forms?
+> AgentElahi: I still think removing me from active duty wasn't justified. People get shot in the stomach all the time.
+> AgentClay: Elahi, you /deliberately/ shot him.
+> AgentElahi: Clay - Look, it isn't my fault that he had facial hair just like 973's. And it ALSO isn't my fault that someone decided to stick him undercover as a police officer.
+
+
+It was amazing. Everything I could imagine was unfolding before my eyes. This was THE real thing, the actual foundation. I was amazed. So, with trembling fingers, I decided to say
+
+> WalterG: Hello.
+
+With a single phrase, all conversation turned to me.
+
+> AgentClay: Welcome, WalterG
+> ResearcherVoct: ah, hello, WalterG ?
+> DrReixis: Hello, WalterG.
+> DrStone: Ah, the subject has arrived.
+> EngO_Xiao: Good evening, WalterG.
+> AgentEscor: Evening, WalterG
+> DrQuence: It's a pleasure to see you, WalterG.
+
+A sense of foreboding splashed across me like a bucket of cold water over my head. Still, this was no time for cowardice.
+
+> ResearcherVoct: WalterG, we've been told to expect you. ...
+> WalterG: Yes, I'm sure you have. Evening, all.
+> ResearcherVoct: We don't know if you're the one we're waiting for, to be honest
+> WalterG: No, I can assure you I'm the one you were waiting for.
+> ResearcherVoct: So how did you come to learn of the Foundation's existence?
+> WalterG: My father used to work for your organization.
+
+There was a long pause before I was addressed again the channel seemed to be teeming with important people doing important jobs. Some were rather trivial:
+
+> AgentClay: No shit, the NSA? How're those spooks doing?
+> AgentElahi: Clay: Probably jacking off to people having phone sex.
+
+…to technical:
+
+> ResearcherSolan: If we line the cage with telekill, it will eventually undergo what currently is termed a "collapse event" and affect all personnel in a varying radius with the effects of the entity contained by SCP-148.
+> DrStone: I don't recall of any instance of 684 being transported. It's far too massive, and last I checked, still on the floor of the Indian Ocean.
+
+…to simple office banter…
+
+> DrReixis: Dr_Smascher: I completed those files you need. I'm emailing them now.
+> Agent_Strelnikov: this is ridicule
+> DrQuence: DrReixis: Can you send me a copy I need it for…reasons
+> Dr_Smascher: Glad to hear it, Reixis. And it is ‘ridiculous’, Strelnikov.
+
+…to downright creepy.
+
+> DrStone: Was that the guy who suggested 682 just needed to 'loosen up' with a bubble bath?
+> AgentClay: Dr Stone, that guy kinda....well, he fell down stairs. A lot.
+
+I was a bit overwhelmed for a moment, but this was a once-in-a-lifetime opportunity. Finally someone addressed me again.
+
+> DrS: WalterG: Who's your dad?
+> WalterG: My father was Dr. Tom G. I'm sure you know who he is.
+
+This much was clear. If this was real…they would know exactly who my father was. There were a few moments of nothing but banter, and then:
+
+> DrS: WalterG: Where was he stationed? What Rank?
+> EngO_Xiao: He was a good guy.
+> WalterG: I am made to understand he was Level 4. As for what he did… I'm sorry. Everything I know about his work is classified.
+
+I was starting to get a bit nervous. How much should I reveal about myself? How much did they already know?
+
+> DrShaRose: WalterG if your father was following protocol, you would not know of his work at all. There is little need to refrain from details.
+> WalterG: DrShaRose: Well, my father was in the field of transporting your most powerful objects. I know for a fact he was present at the transport of the creature you have listed in your "mock web site" as SCP-684. 
+> ResearcherVoct: I'm interested in knowing - what did Tom tell you about us? 
+> WalterG:  A lot.
+
+There was another long pause filled with nothing but witty banter back and forth among the agents and researchers.
+
+> DrS: Okay who's got WalterG's location now?
+> DrReixis: I do.
+> DrS: Do you know what your dad used to do specifically? He tell you any stories?
+
+This was bad. The only option was to go for broke.
+
+> WalterG: yes he did. In fact he gave me a file with a lot of valuable information that, if it were to get out, would be very dangerous. That's why I have wired my home system with a deadman switch. If anything happens to me, it all goes public.
+
+They didn’t believe me.
+
+> DrS: WalterG: Heh. I don't think you understand your position, boy.
+> AgentClay: Walter - I wouldn't worry about it, honestly.
+> DrChung: You really think that would stop us?
+
+My whole body was trembling now. I was in too deep.
+
+>WalterG: Oh, it absolutely would. Does the word Tetramire mean anything to you?
+
+Everything stopped. The whole channel went dead for a good thirty seconds. The silence, even a digital one, was deafening as every agent, researcher and doctor in the foundation stopped what they were doing to pay attention to what I had just said. All of the witty banter stopped as the conversation was now directed at me.
+
+> Dr_Smascher: You'll make this easier on yourself if you just sit there and wait, Walter.
+> WalterG: You can't touch me. I will go public with the tetramire incident. The whole thing. I have the file.
+> DrShaRose: That kind of threat is meaningless to an organization like this. I think if your data were accurate it would reflect this.
+> ResearcherVoct: wait, you seriously think we don't already have alibis for Tetramire?
+
+The threats didn’t stop, however.
+
+> DrChung: Can we get Task Force Iota-7 over to WalterG's house?
+> DrStone: MTF Gamma-5 is en route to your terminal location, Walter_G. Please do not attempt to leave your home.
+
+These threats didn’t mean anything to me. They wouldn’t touch me. And even if they tried—
+
+> WalterG: I'm not at my house. Asshole.
+
+I laughed. This all-powerful SCP organization was clearly nothing but a joke. A bunch of researchers with too much time on their hands a few neat toys. There was another pause in the channel, which was swiftly followed by:
+
+> DrReixis: No. But I know exactly where you are.
+> AgentEscor: Has someone already got a trace on this Walter guy?
+
+There was another long pause. And then:
+
+> DrReixis: Yes, I do. I'm right next to him.
+
+I looked up. As I had been typing I had forgotten about jack, and now I was looking down the barrel of a gun, held by my best friend. “Jack…what are you—”
+“I’m sorry it had to end like this, Walter.”
+I could not believe my eyes. My ears. Jack reached down with his hand and typed something. I glanced down at my screen.
+
+> DrReixis: Subject is secure.
+
+No. It couldn’t be. “J-Jack…” I said slowly. “What are you doing?”
+He sighed and shook his head. “You’ve been a liability for too long. Say hello to your father.”
+
+
+***
+
+“Can I help you, officer?” Jack asked as he opened his door.
+“Yeah, we picked up a guy down the street with a gunshot wound to his leg. He said, uh…” The officer flipped through his notes. “He said you were running a global conspiracy.”
+Jack blinked at him for a moment. “Excuse me?”
+The officer shrugged sheepishly. “Yeah. I just wanted to check and make sure everything’s alright here.”
+Jack shrugged. “Yeah, of course. Just watching TV.”
+The officer sighed in reply. “Alright. I figured he was just crazy then. Have a good night.”
+Jack waved to them and closed the door before returning to the computer.
+
+> DrReixis: Mission accomplished.
